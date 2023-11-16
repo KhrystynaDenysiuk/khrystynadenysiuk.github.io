@@ -1,0 +1,33 @@
+.tech {
+  cursor: pointer;
+  background-color: #e0e0e0;
+  border-radius: 16px;
+  margin: 10px;
+  padding: 2px;
+
+  @media screen and (max-width: 1300px) {
+    margin: 3px;
+  }
+
+  span {
+    font-family: "Gotham Bold";
+    font-size: 13px;
+    padding: 0 12px;
+    transition: 0.3s;
+
+    @media screen and (max-width: 515px) {
+      padding: 0 5px;
+      font-size: 10px;
+    }
+
+    @media screen and (max-width: 320px) {
+      padding: 0 3px;
+      font-size: 9px;
+    }
+  }
+}
+
+.tech:hover {
+  background-color: #B35C0B;
+  color: #fff;
+}

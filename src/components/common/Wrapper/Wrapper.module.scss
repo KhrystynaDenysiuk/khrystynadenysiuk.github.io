@@ -1,0 +1,41 @@
+.wrapper {
+  background: #fff;
+  width: 100%;
+
+  header {
+    position: relative;
+    font-family: "Gotham Bold";
+    padding: 30px 0 20px 30px;
+
+    h4 {
+      position: relative;
+      color: #b05c0c;
+      font-size: 21px;
+    }
+    
+    h4::after {
+      content: "";
+      position: absolute;
+      width: 30px;
+      height: 30px;
+      bottom: -38%;
+      left: -1.4%;
+      border-radius: 50%;
+      background: linear-gradient(135deg, #b05c0c66 0%, #b05c0c03 100%);
+    }
+
+    span {
+      color: #000;
+    }
+  }
+
+  header::after {
+    content: "";
+    position: absolute;
+    width: 590px;
+    height: 2px;
+    bottom: -5%;
+    left: 0;
+    background: radial-gradient(ellipse at left, #ddd 0%, #ffffff00 70%);
+  }
+}

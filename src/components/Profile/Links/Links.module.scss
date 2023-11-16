@@ -1,0 +1,28 @@
+.links {
+  
+  ul {
+    display: flex;
+    padding-bottom: 50px;
+
+    li {
+        margin: 0 15px;
+
+      a {
+        display: block;
+        height: 23px;
+        padding: 5px;
+        color: #33373d;
+
+        i {
+          font-size: 21px;
+        }
+      }
+
+      a:hover {
+        color: #B35C0B;
+        cursor: pointer;
+        transition: 0.3s;
+      }
+    }
+  }
+}

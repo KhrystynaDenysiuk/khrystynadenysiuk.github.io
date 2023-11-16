@@ -1,0 +1,25 @@
+.content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+
+  @media screen and (max-width: 1300px) {
+    flex-direction: column;
+  }
+
+  .description {
+    width: 50%;
+
+    @media screen and (max-width: 1300px) {
+      width: 100%;
+    }
+  
+    p {
+      font-family: "Open Sans Regular";
+      line-height: 27px;
+      font-size: 15px;
+      margin: 25px;
+    }
+  }
+}

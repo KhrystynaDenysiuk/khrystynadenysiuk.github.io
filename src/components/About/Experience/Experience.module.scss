@@ -1,0 +1,24 @@
+.content {
+  font-family: "Open Sans Regular";
+  font-size: 15px;
+  line-height: 27px;
+  margin: 40px 0 0 30px;
+
+  p {
+    color: #B35C0B;
+  }
+
+  span {
+    color: #615e5e;
+  }
+
+  h5 {
+    font-family: "Open Sans Regular";
+    line-height: 27px;
+    font-size: 15px;
+  }
+
+  @media screen and (max-width: 430px) {
+    margin: 40px 30px 0 30px;
+  }
+}

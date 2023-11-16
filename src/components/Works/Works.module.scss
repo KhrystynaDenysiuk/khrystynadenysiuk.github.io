@@ -1,0 +1,24 @@
+.works {
+  height: 610px;
+  width: 721px;
+  overflow-y: scroll;
+  margin-top: 13px;
+
+  @media screen and (max-width: 1300px) {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+  }
+
+  p {
+    font-family: "Open Sans Regular";
+    line-height: 27px;
+    font-size: 15px;
+    padding: 30px 0 15px 30px;
+
+    a {
+      text-decoration: none;
+      color: #B35C0B;
+    }
+  }
+}

@@ -1,0 +1,38 @@
+.wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-family: "Open Sans Regular";
+
+  .label {
+    margin: 20px 10px 20px 0;
+    padding: 2px 10px;
+    background: #b35c0c;
+    color: #fff;
+    border-radius: 2px;
+  }
+
+  .value {
+    color: #666262;
+
+    @media screen and (max-width: 450px) {
+      font-size: 14px;
+    }
+  }
+}
+
+.wrapper::after {
+  content: "";
+  position: absolute;
+  height: 2px;
+  width: 300px;
+  background: radial-gradient(ellipse at center, #ddd 0%, #ffffff00 70%);
+  bottom: 1%;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.wrapper:last-child::after {
+  display: none;
+}
