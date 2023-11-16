@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7bc31222.css",
+    "main.js": "/static/js/main.f26fff64.js",
+    "static/js/787.2dcca737.chunk.js": "/static/js/787.2dcca737.chunk.js",
+    "static/media/Bhromaon.png": "/static/media/Bhromaon.f0d8fb7c0ace004789e4.png",
+    "static/media/Monticello.png": "/static/media/Monticello.44aa066aa03f7a797c86.png",
+    "static/media/Leospa.png": "/static/media/Leospa.ae6693060e5ba76699ff.png",
+    "static/media/Ukraine.png": "/static/media/Ukraine.2032be82f90dd0d4497c.png",
+    "static/media/Open Sans Regular.otf": "/static/media/Open Sans Regular.45b339663ea81b91f7e8.otf",
+    "static/media/my-photo.jpeg": "/static/media/my-photo.a8ae9af60ddbb29d8e62.jpeg",
+    "static/media/Сertificate.pdf": "/static/media/Сertificate.0f2ecc0546bab8144041.pdf",
+    "static/media/Open Sans Regular.ttf": "/static/media/Open Sans Regular.1b0809d519837cb7aad3.ttf",
+    "static/media/Gotham Bold.otf": "/static/media/Gotham Bold.77444a333a94c4c52533.otf",
+    "static/media/Gotham Medium Regular.ttf": "/static/media/Gotham Medium Regular.ba4f661aec947b576e57.ttf",
+    "static/media/Open Sans Regular.woff": "/static/media/Open Sans Regular.82394c2aed4e69aa493a.woff",
+    "static/media/Gotham Medium Regular.otf": "/static/media/Gotham Medium Regular.8eabe6be16e9f7cf7a39.otf",
+    "static/media/Gotham Bold.ttf": "/static/media/Gotham Bold.7f48da1314622607fe98.ttf",
+    "static/media/Khrystyna Denysiuk.pdf": "/static/media/Khrystyna Denysiuk.7d0c63df1ab86b7b89b0.pdf",
+    "static/media/Gotham Bold.woff": "/static/media/Gotham Bold.f6afe209dcde6113f7b9.woff",
+    "static/media/Gotham Medium Regular.woff": "/static/media/Gotham Medium Regular.8c2b833fb88c76060967.woff",
+    "index.html": "/index.html",
+    "main.7bc31222.css.map": "/static/css/main.7bc31222.css.map",
+    "main.f26fff64.js.map": "/static/js/main.f26fff64.js.map",
+    "787.2dcca737.chunk.js.map": "/static/js/787.2dcca737.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bc31222.css",
+    "static/js/main.f26fff64.js"
+  ]
+}
