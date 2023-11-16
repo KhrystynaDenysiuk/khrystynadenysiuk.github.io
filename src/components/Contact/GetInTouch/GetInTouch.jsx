@@ -1,7 +1,7 @@
 import s from './GetInTouch.module.scss';
 import Wrapper from '../../common/Wrapper/Wrapper';
 import ContactMeList from './ContactMeList/ContactMeList';
-import img from './assets/ukraine.png'
+import img from './assets/Ukraine.png'
 
 const GetInTouch = () => {
   return (
