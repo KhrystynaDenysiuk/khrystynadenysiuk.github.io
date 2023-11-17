@@ -11,21 +11,21 @@ const myProjects = [
     lable: 'Bhromaon',
     technologies: 'HTML, CSS',
     value: 'This is my first project. I wrote it with help HTML and CSS',
-    href: ' https://khrystynarolska.github.io/bhromaon/'
+    href: ' https://khrystynadenysiuk.github.io/bhromaon/'
   },
   {
     src: imgMonticello,
     lable: 'Monticello',
     technologies: 'HTML, SCSS, JavaScript',
     value: 'This project is implemented with HTML, SCSS and JavaScript (scroll, slow scroll, slider, hamburger menu)',
-    href: ' https://khrystynarolska.github.io/monticello/'
+    href: ' https://khrystynadenysiuk.github.io/monticello/'
   },
   {
     src: imgLeospa,
     lable: 'Leospa',
     technologies: 'Vue js',
     value: 'This is an vue project. This is a Leospa project with well-known components (hamburger menu, scroll to, shapes, tabs, etc.)',
-    href: 'https://khrystynarolska.github.io/leospa-vue-project/'
+    href: 'https://khrystynadenysiuk.github.io/leospa-vue-project/'
   }
 ]
 
