@@ -5,14 +5,14 @@ const experience = [
   {
     companyТame: '"HiWeber", Kyiv',
     position: 'Front-end Developer',
-    workPeriod: 'MAR 2022 – OCT 2023'
+    workPeriod: 'MAR 2022 – DEC 2023'
   }
 ]
 
 const Experience = () => {
   return (
     <div className={s.experience}>
-      <Wrapper title={<>My <span>education</span></>}>
+      <Wrapper title={<>My <span>experience</span></>}>
         {experience.map((i, idx) => (
           <div className={s.content} key={idx}>
             <h4>{i.companyТame}</h4>
