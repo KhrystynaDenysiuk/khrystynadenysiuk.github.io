@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7bc31222.css",
-    "main.js": "/static/js/main.b2c62c49.js",
+    "main.js": "/static/js/main.9efed3a4.js",
     "static/js/787.2dcca737.chunk.js": "/static/js/787.2dcca737.chunk.js",
     "static/media/Bhromaon.png": "/static/media/Bhromaon.f0d8fb7c0ace004789e4.png",
     "static/media/Monticello.png": "/static/media/Monticello.44aa066aa03f7a797c86.png",
@@ -16,16 +16,16 @@
     "static/media/Open Sans Regular.woff": "/static/media/Open Sans Regular.82394c2aed4e69aa493a.woff",
     "static/media/Gotham Medium Regular.otf": "/static/media/Gotham Medium Regular.8eabe6be16e9f7cf7a39.otf",
     "static/media/Gotham Bold.ttf": "/static/media/Gotham Bold.7f48da1314622607fe98.ttf",
-    "static/media/Khrystyna Denysiuk.pdf": "/static/media/Khrystyna Denysiuk.7d0c63df1ab86b7b89b0.pdf",
+    "static/media/Khrystyna Denysiuk.pdf": "/static/media/Khrystyna Denysiuk.6a71ed303c9cfaaccf46.pdf",
     "static/media/Gotham Bold.woff": "/static/media/Gotham Bold.f6afe209dcde6113f7b9.woff",
     "static/media/Gotham Medium Regular.woff": "/static/media/Gotham Medium Regular.8c2b833fb88c76060967.woff",
     "index.html": "/index.html",
     "main.7bc31222.css.map": "/static/css/main.7bc31222.css.map",
-    "main.b2c62c49.js.map": "/static/js/main.b2c62c49.js.map",
+    "main.9efed3a4.js.map": "/static/js/main.9efed3a4.js.map",
     "787.2dcca737.chunk.js.map": "/static/js/787.2dcca737.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7bc31222.css",
-    "static/js/main.b2c62c49.js"
+    "static/js/main.9efed3a4.js"
   ]
 }
