@@ -4,6 +4,7 @@ import Project from './Project/Project';
 import imgBhromaon from './assets/Bhromaon.png'
 import imgMonticello from './assets/Monticello.png'
 import imgLeospa from './assets/Leospa.png';
+import imgTestTask from './assets/TestTask.png';
 
 const myProjects = [
   {
@@ -23,9 +24,16 @@ const myProjects = [
   {
     src: imgLeospa,
     lable: 'Leospa',
-    technologies: 'Vue js',
+    technologies: 'Vue.js',
     value: 'This is an vue project. This is a Leospa project with well-known components (hamburger menu, scroll to, shapes, tabs, etc.)',
     href: 'https://khrystynadenysiuk.github.io/leospa-vue-project/'
+  },
+  {
+    src: imgTestTask,
+    lable: 'Test Task',
+    technologies: 'Vue3, Composition API',
+    value: 'Used the following technologies/libraries: Vue3, Composition API, Vuex, Typescript, FormKit, SASS',
+    href: 'https://khrystynadenysiuk.github.io/testTask/'
   }
 ]
 
